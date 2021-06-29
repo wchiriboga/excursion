@@ -14,3 +14,29 @@ header h1 {
     font-size: 16px;
     text-align: center;
 }
+
+.video {
+    text-align: center;
+    background-color: black;
+}
+
+.ad {
+    text-align: center;
+}
+
+.ad_font {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.caption {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+footer {
+    text-align: right;
+    color: grey;
+}
